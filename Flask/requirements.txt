@@ -1,0 +1,6 @@
+pip install cloudpickle==2.2.1
+pip install -U scikit-learn==1.1.3
+
+After run tool using the following command
+
+flask run
