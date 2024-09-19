@@ -1,7 +1,15 @@
 clone the repository
+
+
 move to the directory
+
+
 cd Phishing_Detection
+
+
 cd Flask
+
+
 install the requirments
 
 run the tool
